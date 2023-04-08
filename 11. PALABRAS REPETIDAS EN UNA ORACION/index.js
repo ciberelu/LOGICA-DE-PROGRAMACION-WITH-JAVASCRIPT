@@ -9,7 +9,7 @@ function textoEnCadena(cadena, texto){
         i = cadena.indexOf(texto, i) //le asigna el valor donde comienza el indice de la palabra que se busca, si no la encuentra le asigna -1
 
         if (i !== -1){ //si es diferente a menos 1 entra al if para contabilizar que encontro una vez
-            i++ //aumenta un valor la i para que en la siguiente bucle empiece a buscar despues de donde encontro la primer palabra
+            i++ //aumenta un valor la i para que en el siguiente bucle empiece a buscar despues de donde encontro la primer palabra
             contador ++ //se aumenta cada vez que encuentra una palabra, representa las veces que la palabra aparece en el texto largo
         }
     }
