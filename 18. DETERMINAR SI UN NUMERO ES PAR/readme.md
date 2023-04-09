@@ -1,0 +1,1 @@
+Determine si un numero es para o impar
