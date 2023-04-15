@@ -1,0 +1,1 @@
+Crea 5 objetos y almacénalos en un arreglo, debes hacer una función para filtrar a todas las personas que tengan el nombre Luis y que esa misma función también muestre cuales son mayores de edad.
